@@ -1,0 +1,86 @@
+body{
+    background-image: url(https://www.tecsup.edu.pe/sites/default/files/category/cover/educacion.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin: 120px 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    display: flex;
+    margin: auto;
+    width: 350px;
+    border-radius: 20px ;
+    position: relative;
+    top: 50px;
+    z-index: 1;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 300px;
+    background-color: black;
+    color: white;   
+    padding: 50px;
+    opacity: 0.9;
+}
+
+form label{
+    margin-left: 5px;
+    
+}
+
+form input{
+    margin:15px 0px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+form button{
+    margin:15px 0px;
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+form .login{
+    background-color: #329EF4;
+    color: white;
+    
+}
+form .google{
+    background-color: #C23321;
+    color: white;
+    
+}
+
+.link{
+    text-align: center;
+    margin: 10px;
+}
+
+.link a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
