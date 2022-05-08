@@ -38,6 +38,10 @@ form input{
     margin:15px 0px;
     border-radius: 5px;
     padding: 10px;
+    opacity: 0.9;
+    background-color: transparent;
+    color: white;
+    border-bottom: 2px solid rgb(4, 0, 255);
 }
 
 form button{
